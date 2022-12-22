@@ -1,0 +1,23 @@
+{
+  "txt": "text/plain",
+  "html": "text/html",
+  "htm": "text/html",
+  "css": "text/css",
+  "js": "text/javascript",
+  "jpg": "image/jpeg",
+  "jpeg": "image/jpeg",
+  "png": "image/png",
+  "gif": "image/gif",
+  "webp": "image/webp",
+  "ico": "image/x-icon",
+  "svg": "image/svg+xml",
+  "mid": "audio/midi",
+  "midi": "audio/midi",
+  "mp3": "audio/mpeg",
+  "mpg": "audio/mpeg",
+  "mpeg": "audio/mpeg",
+  "ogg": "audio/ogg",
+  "wav": "audio/wav",
+  "webm": "audio/webm",
+  "mp4": "video/mpeg"
+}

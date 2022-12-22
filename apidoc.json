@@ -1,0 +1,9 @@
+{
+  "name": "Noirlamp API Docs",
+  "version": "0.1.0",
+  "description": "Spark! Let's light it up.",
+  "apidoc": {
+    "title": "Noirlamp API Docs",
+    "url": "/"
+  }
+}
